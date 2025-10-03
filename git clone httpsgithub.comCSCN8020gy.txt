@@ -1,3 +1,0 @@
-git clone "https://github.com/CSCN8020/gym_maze.git" 
- 
-now works
